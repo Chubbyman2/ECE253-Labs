@@ -19,9 +19,9 @@ Steps on Submission (for future students):
 10. In the "login as: " field, enter your UTORid.
 11. Your password is your student number again. Note that this is Linux, so you will not be able to see it when you write it. Just write it and hit Enter.
 12. If successful, you should see a prompt "ug132:~%".
-13. To run sanity check (i.e. tester), copy-paste "/cad2/ece241f/public/<lab#>/tester" and change the "<lab#>" to the lab you're doing.
+13. To run sanity check (i.e. tester), copy-paste "/cad2/ece253f/public/<lab#>/tester" and change the "<lab#>" to the lab you're doing.
     
-    i.e. /cad2/ece241f/public/4/tester
+    i.e. /cad2/ece253f/public/4/tester
 14. Once you are satisfied with your results, copy-paste "submitece253f <lab#> part1.v part2.v part3.v", and change things accordingly.
 15. To check that you have submitted, copy-paste "submitece253f -l <lab#>" and change "<lab#>".
     * Note that if you can't see the text after copy-pasting, right click on the terminal and it should show up.
